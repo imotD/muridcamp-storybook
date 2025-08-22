@@ -14,7 +14,7 @@ const meta: Meta<typeof Button> = {
             options: ["small", "medium", "large"]
         },
         onClick: {
-            action: "diklik!"
+            action: "click!"
         }
     }
 }
